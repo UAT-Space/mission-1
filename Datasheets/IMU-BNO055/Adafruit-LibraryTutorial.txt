@@ -1,0 +1,5 @@
+I have personally used this board from Adafruit, so I know this works well.
+They also provide an Arduino library that I know works.
+I have copied most of their circuit design, so the library should be compatible with our custom board.
+
+https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview

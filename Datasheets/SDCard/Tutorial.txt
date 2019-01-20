@@ -1,0 +1,3 @@
+https://www.arduino.cc/en/Reference/SD
+
+https://simple-circuit.com/arduino-sd-card-dht11-data-logger/

@@ -1,0 +1,4 @@
+https://www.u-blox.com/en/product/max-m8-series
+
+USE MAX-M8Q for TCXO (TEMPERATURE CONTROLLED CRYSTAL OSCILLATOR!)
+USE MAX-M8C for Generic Crystal (MIGHT CONSUME LESS POWER)
